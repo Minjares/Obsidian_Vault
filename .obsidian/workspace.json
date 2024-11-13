@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "f827fba05af9c322",
+    "type": "split",
+    "children": [
+      {
+        "id": "296da2e9e7e3f285",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eac0f3b0328692b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Week 3/Support Vector Machines.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Support Vector Machines"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "840b8ec9dfbd0438",
+    "type": "split",
+    "children": [
+      {
+        "id": "42c402322675950e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f93d0aedc28ef901",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5d0215ac05e061f4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "139e83e398639573",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "041ca6a80312ba71",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e2124fd47470baa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61febcfb88be3177",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Machine Learning/Week 1/Presentations/1a-introduction.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1a-introduction"
+            }
+          },
+          {
+            "id": "8c9e83bc653d597f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Machine Learning/Week 1/Presentations/1a-introduction.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1a-introduction"
+            }
+          },
+          {
+            "id": "b007333731a090d8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "46d7f772c1ae7ec2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Machine Learning/Week 1/Presentations/1a-introduction.pdf"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1a-introduction"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "eac0f3b0328692b9",
+  "lastOpenFiles": [
+    "Machine Learning/Week 3/Presentations/3c-svm-primal.pdf",
+    "Machine Learning/Week 4/Presentations/4a-svm-dual.pdf",
+    "Machine Learning/Week 4/Presentations/4c-predictions-dual-and-kernels.pdf",
+    "Machine Learning/Week 4/Presentations",
+    "Machine Learning/Week 3/Support Vector Machines.md",
+    "Machine Learning/Week 3/Images/Pasted image 20241113031802.png",
+    "Machine Learning/Week 3/Images/Pasted image 20241113031727.png",
+    "Machine Learning/Week 1/Logistic Regression HS.md",
+    "Machine Learning/Week 3/Nonlinear transformations.md",
+    "Machine Learning/Week 2/Logistic Regression.md",
+    "Machine Learning/Week 1/Introduction to ML.md",
+    "Machine Learning/Week 3/Presentations/3a-nonlinear-transformations.pdf",
+    "Machine Learning/Week 3/Images/Pasted image 20241113000716.png",
+    "Machine Learning/Week 3/Images/Pasted image 20241112231823.png",
+    "Machine Learning/Week 3/Images/Pasted image 20241112231813.png",
+    "Machine Learning/Week 3/Images/Pasted image 20241112223517.png",
+    "Machine Learning/Week 3/Images/Pasted image 20241112223219.png",
+    "Machine Learning/Week 3/Presentations",
+    "Machine Learning/Week 3/Images",
+    "Machine Learning/Week 5",
+    "Machine Learning/Week 4",
+    "Machine Learning/Week 3",
+    "Machine Learning/Week 2/Iterative Reweighted Least Squares.md",
+    "Machine Learning/Week 2/Imagenes/Pasted image 20241108172912.png",
+    "Machine Learning/Week 2/Imagenes/Pasted image 20241108161510.png",
+    "Machine Learning/Week 2/Imagenes/Pasted image 20241108172645.png",
+    "Machine Learning/notes-notation.pdf",
+    "Machine Learning/Week 2/Iterative Re-weighted Least Squares.md",
+    "Software Engineering/Week 1/Day 1.md",
+    "Neural Computation/Week 2/Gradient Descent Methods.md",
+    "Neural Computation/Week 1/Machine Learning Basics.md",
+    "Neural Computation/Week 1/Linear regression.md",
+    "Neural Computation/Week 1/Neural Computation.md"
+  ]
+}
