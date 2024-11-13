@@ -11,14 +11,12 @@
             "id": "eac0f3b0328692b9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Machine Learning/Week 3/Support Vector Machines.md",
-                "mode": "source",
-                "source": false
+                "file": "Machine Learning/Week 4/Presentations/4c-predictions-dual-and-kernels.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Support Vector Machines"
+              "icon": "lucide-file-text",
+              "title": "4c-predictions-dual-and-kernels"
             }
           }
         ]
@@ -164,15 +162,24 @@
   },
   "active": "eac0f3b0328692b9",
   "lastOpenFiles": [
-    "Machine Learning/Week 3/Presentations/3c-svm-primal.pdf",
-    "Machine Learning/Week 4/Presentations/4a-svm-dual.pdf",
-    "Machine Learning/Week 4/Presentations/4c-predictions-dual-and-kernels.pdf",
-    "Machine Learning/Week 4/Presentations",
+    "Machine Learning/Week 5/Presentations/5a-soft-margin.pdf",
+    "Machine Learning/Week 5/Presentations/5c-SMO.pdf",
+    "Machine Learning/Week 5/Presentations",
+    "Machine Learning/Week 3/Nonlinear transformations.md",
+    "Machine Learning/Week 4/Images",
     "Machine Learning/Week 3/Support Vector Machines.md",
+    "Machine Learning/Week 4/Presentations/4c-predictions-dual-and-kernels.pdf",
+    "Machine Learning/Week 4/Presentations/4a-svm-dual.pdf",
+    "Machine Learning/Week 4/Lagrange Relaxation, Duality and the Dual Formulation of Support Vector Macines SVM.md",
+    "Machine Learning/Week 3/Images/Pasted image 20241113123756.png",
+    "Machine Learning/Week 3/Images/Pasted image 20241113121342.png",
+    "Machine Learning/Week 3/Images/Pasted image 20241113121239.png",
+    "Machine Learning/Week 3/Images/Pasted image 20241113120034.png",
+    "Machine Learning/Week 3/Presentations/3c-svm-primal.pdf",
+    "Machine Learning/Week 4/Presentations",
     "Machine Learning/Week 3/Images/Pasted image 20241113031802.png",
     "Machine Learning/Week 3/Images/Pasted image 20241113031727.png",
     "Machine Learning/Week 1/Logistic Regression HS.md",
-    "Machine Learning/Week 3/Nonlinear transformations.md",
     "Machine Learning/Week 2/Logistic Regression.md",
     "Machine Learning/Week 1/Introduction to ML.md",
     "Machine Learning/Week 3/Presentations/3a-nonlinear-transformations.pdf",
@@ -180,17 +187,9 @@
     "Machine Learning/Week 3/Images/Pasted image 20241112231823.png",
     "Machine Learning/Week 3/Images/Pasted image 20241112231813.png",
     "Machine Learning/Week 3/Images/Pasted image 20241112223517.png",
-    "Machine Learning/Week 3/Images/Pasted image 20241112223219.png",
     "Machine Learning/Week 3/Presentations",
     "Machine Learning/Week 3/Images",
-    "Machine Learning/Week 5",
-    "Machine Learning/Week 4",
-    "Machine Learning/Week 3",
     "Machine Learning/Week 2/Iterative Reweighted Least Squares.md",
-    "Machine Learning/Week 2/Imagenes/Pasted image 20241108172912.png",
-    "Machine Learning/Week 2/Imagenes/Pasted image 20241108161510.png",
-    "Machine Learning/Week 2/Imagenes/Pasted image 20241108172645.png",
-    "Machine Learning/notes-notation.pdf",
     "Machine Learning/Week 2/Iterative Re-weighted Least Squares.md",
     "Software Engineering/Week 1/Day 1.md",
     "Neural Computation/Week 2/Gradient Descent Methods.md",
