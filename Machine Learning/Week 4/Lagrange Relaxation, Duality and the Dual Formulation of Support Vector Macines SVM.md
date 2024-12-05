@@ -15,6 +15,8 @@ We will get rid of w and b, and also of $\mathbf{w}^T\phi(x^{n})$ and $||\mathbf
 
 ### Lagrange Relaxation
 
+Example with normal function
+
 - Primal Formulation
 $$
 \min_xF(\mathbf{x}) \quad \text{Subject to:   } f(\mathbf{x}) \leq 0 
@@ -24,6 +26,11 @@ $$
 \min_x \{  F(\mathbf{x}) +af(x)\}
 $$
 Where a $\geq$ 0 is called a Lagrange multiplier and $L(\mathbf{x},a) = F(x)+af(x)$  is called the Lagranian.
+
+Basically in Langrange the constraint is moved, eliminated as a constraint and inserted in the objective function.
+
+The larger the value of f of x, the more positive its value.
+The larger the value of our Lagrangian of our objective function as a whole.
 
 - The objective will be penalized when the constraint is violated, unless a = 0, so we will be searching for solution that does not violate the constraint. 
 	- We need to choose appropriate values for $a_i$ to ensure that the penalty is large enough.
@@ -194,5 +201,5 @@ $$
 
 - This calculation can be generalizes to basis expansions composed of all terms of order up to p
 $$
-k(\mathbf{x},\mathbf{z}) = (1 + \mathbf{x}^T\mathbf{z})^p
+k(\mathbf{x},\mathbf{z}) = (1 + \mathbf{x}^T\mathbf{z})^2
 $$
